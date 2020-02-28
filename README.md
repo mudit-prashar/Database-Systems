@@ -1,5 +1,6 @@
 # Database-Systems
 # Project Manager for Project 1 and Project 3
+# Mudit Prashar
 ##  Group Projects
 ### Project 1
   - Writing Simple to Complex SQL Queries
