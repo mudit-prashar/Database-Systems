@@ -1,0 +1,1 @@
+EXEC [Process].[usp_LoadStarSchemaData] @UserAuthKey = 1
